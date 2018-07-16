@@ -1,0 +1,25 @@
+body {
+  background-color: LavenderBlush;
+}
+
+h1 {
+  font-size: 50px;
+  color: Maroon;
+  text-align: center;
+
+}
+
+h2 {
+  text-align: center;
+  color: DimGrey;
+}
+
+.header {
+    background-color: HotPink;
+    padding: 20px;
+    text-align: center;
+}
+
+body {
+  margin: 0;
+}
